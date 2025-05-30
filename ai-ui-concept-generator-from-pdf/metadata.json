@@ -1,0 +1,5 @@
+{
+  "name": "AI UI Concept Generator from PDF",
+  "description": "Upload a product documentation PDF to generate Web and Mobile UI/UX concepts using AI. This tool helps visualize potential application interfaces based on textual descriptions.",
+  "requestFramePermissions": []
+}
